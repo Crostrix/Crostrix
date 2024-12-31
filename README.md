@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently working on:
+ - 🔭Fortnite API (Crostrix/Fortnite-API)
+ - 🔭Minimal Linux (Crostrix/Minimal-Linux)
+ - 🌱Learning Rust
